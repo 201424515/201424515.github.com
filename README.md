@@ -7,4 +7,5 @@
   - 10번동안 위의 방법을 진행하여 컴퓨터의 숫자를 예측합니다.
 
 API URL
-    https://user-images.githubusercontent.com/26787212/27420076-38a75d96-575f-11e7-9178-e62d01ce7696.png
+
+https://user-images.githubusercontent.com/26787212/27420076-38a75d96-575f-11e7-9178-e62d01ce7696.png
